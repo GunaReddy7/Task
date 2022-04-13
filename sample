@@ -1,5 +1,8 @@
 #! /bin/bash
 a=$1
 b=$2
-((c=a+b))
-echo "$C"
+c=$3
+((x=a+b))
+((y=b+c))
+echo "$x"
+echo "$y"
