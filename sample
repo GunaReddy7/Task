@@ -6,4 +6,4 @@ c=$3
 ((y=b+c))
 echo "$x"
 echo "$y"
-echo "ello
+echo "Hello"
